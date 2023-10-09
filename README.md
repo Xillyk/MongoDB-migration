@@ -1,4 +1,23 @@
-# test-1
+# MongoDB Migrate using migrate-mongo lib
+
+Dependencies:
+- migrate-mongo
+
+Init config file & migrations folder
+```bash
+mingrate-mongo init
+```
+
+Migrate Up
+```bash
+mingrate-mongo up
+```
+
+Migrate Down
+```bash
+mingrate-mongo down
+```
+
 
 To install dependencies:
 
